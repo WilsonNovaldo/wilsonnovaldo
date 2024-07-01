@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilson Novaldo</h1>
-<h3 align="center">Currently studying in Bina Nusantara University. Majoring in Mathematics & Computer Science</h3>
+<h3 align="center">I am fresh graduate from Bina Nusantara University. Majoring in Mathematics & Computer Science</h3>
 
 <p align="left"> <a href="https://twitter.com/wilsonnovaldo29" target="blank"><img src="https://img.shields.io/twitter/follow/wilsonnovaldo29?logo=twitter&style=for-the-badge" alt="wilsonnovaldo29" /></a> </p>
 
