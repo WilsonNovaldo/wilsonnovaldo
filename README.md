@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://twitter.com/wilsonnovaldo29" target="blank"><img src="https://img.shields.io/twitter/follow/wilsonnovaldo29?logo=twitter&style=for-the-badge" alt="wilsonnovaldo29" /></a> </p>
 
 - 🌱 I’m currently learning **about Web Development especially Front-End.**
+- 🌱 I’m currently learning **about Data especially Excel, SQL, and Python for data visualization.**
 
 - 👨‍💻 All of my projects are available at [wilsonnovaldo.github.io](wilsonnovaldo.github.io)
 
